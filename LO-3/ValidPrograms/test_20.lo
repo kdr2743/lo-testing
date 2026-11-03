@@ -4,8 +4,8 @@
 // Author: Shivi Agarwal (Fall 2021)
 
 class student(String firstname; String lastname;) [
-    student(String fn, String ln){
-        firstname=fn;
+    student(String first, String ln){
+        firstname=first;
         lastname=ln;
     }
 ] {
